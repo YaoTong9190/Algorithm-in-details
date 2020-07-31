@@ -7,3 +7,5 @@
 ## Related Questions
 
 1. [Lowest Common Ancestor of a Binary Tree](/QuestionPool/236LowerCommonAncestor.md)
+
+2. [543. Diameter of Binary Tree](/QuestionPool/543DiameterBinaryTree.md)
